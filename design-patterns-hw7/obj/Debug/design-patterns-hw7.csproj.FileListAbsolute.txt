@@ -1,0 +1,6 @@
+c:\users\nikita\documents\visual studio 2015\Projects\design-patterns-hw7\design-patterns-hw7\bin\Debug\design-patterns-hw7.exe.config
+c:\users\nikita\documents\visual studio 2015\Projects\design-patterns-hw7\design-patterns-hw7\bin\Debug\design-patterns-hw7.exe
+c:\users\nikita\documents\visual studio 2015\Projects\design-patterns-hw7\design-patterns-hw7\bin\Debug\design-patterns-hw7.pdb
+c:\users\nikita\documents\visual studio 2015\Projects\design-patterns-hw7\design-patterns-hw7\obj\Debug\design-patterns-hw7.csprojResolveAssemblyReference.cache
+c:\users\nikita\documents\visual studio 2015\Projects\design-patterns-hw7\design-patterns-hw7\obj\Debug\design-patterns-hw7.exe
+c:\users\nikita\documents\visual studio 2015\Projects\design-patterns-hw7\design-patterns-hw7\obj\Debug\design-patterns-hw7.pdb
